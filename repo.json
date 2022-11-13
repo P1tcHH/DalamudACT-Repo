@@ -1,0 +1,28 @@
+[
+    {
+      "Author": "wozaiha",
+      "Name": "Dalamud Damage Display",
+      "Punchline": "Show your battle Damage in game.",
+      "Description": "Display your Damage in game.",
+      "InternalName": "DalamudACT",
+      "RepoUrl": "https://github.com/wozaiha/DalamudACT",
+      "ApplicableVersion": "any",
+      "Tags": [
+          "ACT",
+          "Battle"
+      ],
+      "DalamudApiLevel": 5
+      
+      "IsHide": "False",
+      "IsTestingExclusive": "False",
+      "DownloadCount": 0,
+      "LastUpdate": 0,
+      "LoadPriority": 69420,
+      "LoadRequiredState": 2,
+      "LoadSync": true,
+      "DownloadLinkInstall": "https://github.com/wozaiha/DalamudACT/releases/download/Beta/DalamudACT6.05.zip",
+      "DownloadLinkTesting": "https://github.com/wozaiha/DalamudACT/releases/download/Beta/DalamudACT6.05.zip",
+      "DownloadLinkUpdate": "https://github.com/wozaiha/DalamudACT/releases/download/Beta/DalamudACT6.05.zip",
+      "IconUrl": "https://raw.githubusercontent.com/wozaiha/DalamudACT/main/Data/goat.png"
+    }
+]
